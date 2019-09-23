@@ -5,7 +5,7 @@ export ZSH="/home/anon/.oh-my-zsh"
 HIST_STAMPS="%h %d %Y %I:%M%p"
 UPDATE_ZSH_DAYS="2" # auto-update check (in days).
 DISABLE_UNTRACKED_FILES_DIRTY="true"  # disables dirty/clean tracking for untracked files/dirs
-ZSH_THEME="avit" # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
+ZSH_THEME="no21" # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 DISABLE_UPDATE_PROMPT="true" # automatic updates, no prompt
 
 # Standard  ~/.oh-my-zsh/plugins/* # Custom   ~/.oh-my-zsh/custom/plugins/ # plugins=(git gud redux funk)
