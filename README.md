@@ -1,4 +1,4 @@
-![Example Desktop Screenshot](2019-09-23-123401_1920x1080_scrot.png)
+![Example Desktop Screenshot](screenshot.png)
 
 # linux-configs
 non-standard config files i use regularly in linux
