@@ -100,9 +100,9 @@ bindsym $mod+r mode "resize"
 
 bar {
         colors {
-          #background #000000
-          #separator #000000
-          #statusline #EEEEEE
+          background #000000
+          separator #000000
+          statusline #EEEEEE
 
           #                   border  backgr. text
           focused_workspace  #22FF00 #000000 #22FF00
