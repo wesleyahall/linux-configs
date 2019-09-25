@@ -3,10 +3,11 @@
 set $mod Control
 set $ctrl Mod4
 
-font pango:FontAwesome5Free 10, FontAwesome 10, Fira Mono 10
+font pango: FontAwesome5Free 10, FontAwesome 10, Fira Mono 10
 
 exec --no-startup-id feh --bg-scale ~/.config/desktop-background.jpeg
 exec --no-startup-id compton
+exec --no-startup-id /usr/bin/python3 /usr/bin/blueman-applet
 
 for_window [class="^.*"] border pixel 0
 gaps inner 30
