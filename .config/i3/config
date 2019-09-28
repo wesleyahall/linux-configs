@@ -10,8 +10,8 @@ exec --no-startup-id "compton -b --config ~/.config/compton/compton.conf"
 exec --no-startup-id /usr/bin/python3 /usr/bin/blueman-applet Hidden=true
 
 for_window [class="^.*"] border pixel 0
-gaps inner 30
-gaps outer 5
+gaps inner 10
+gaps outer 0
 
 # Command Key Commands
 bindsym $mod+Return exec gnome-terminal.real 
